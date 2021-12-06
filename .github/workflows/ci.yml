@@ -30,4 +30,4 @@ jobs:
           echo test, and deploy your project.
           
       - name: PHPUnit Tests
-        uses: php-actions/phpunit@v2
+        uses: php-actions/phpunit@v9
