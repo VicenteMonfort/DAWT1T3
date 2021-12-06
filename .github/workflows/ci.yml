@@ -29,5 +29,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
           
-      #- name: PHPUnit Tests
-      #  uses: php-actions/phpunit@v9
+      - name: PHPUnit Tests
+        uses: php-actions/phpunit@v9
