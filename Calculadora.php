@@ -1,6 +1,7 @@
 <?php​
 
 //Clase ejemplo para probar la CI en GitHub
+    //
 class Calculadora {​
 
     private $num1;​
