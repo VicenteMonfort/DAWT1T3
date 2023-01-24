@@ -31,5 +31,5 @@ jobs:
           
       - name: PHPUnit Tests
         uses: php-actions/phpunit@v9
-        with:
-          command: phpunit ./test/CalculadoraTest.php
+        #with:
+        #  command: phpunit ./test/CalculadoraTest.php
