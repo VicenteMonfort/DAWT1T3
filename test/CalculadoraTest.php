@@ -2,7 +2,7 @@
 
 use PHPUnit \Framework\TestCase;​
 
-include 'Calculadora.php';​
+include './src/Calculadora.php';​
 
 final class CalculadoraTest extends TestCase { ​
     
